@@ -5,6 +5,8 @@ VisualStudioVersion = 17.14.36915.13 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1 - Two Sum", "1 - Two Sum\1 - Two Sum.csproj", "{AC7E1FC2-C12A-4209-9431-AA4A4BB6CEBB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2 - Add Two Numbers", "2 - Add Two Numbers\2 - Add Two Numbers.csproj", "{19A33EF0-F2BF-43AC-AF93-7BB922E43A3B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{AC7E1FC2-C12A-4209-9431-AA4A4BB6CEBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC7E1FC2-C12A-4209-9431-AA4A4BB6CEBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC7E1FC2-C12A-4209-9431-AA4A4BB6CEBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19A33EF0-F2BF-43AC-AF93-7BB922E43A3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19A33EF0-F2BF-43AC-AF93-7BB922E43A3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19A33EF0-F2BF-43AC-AF93-7BB922E43A3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19A33EF0-F2BF-43AC-AF93-7BB922E43A3B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
