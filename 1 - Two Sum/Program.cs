@@ -1,4 +1,7 @@
-﻿public class Solution
+﻿using System;
+using System.Collections.Generic;
+
+public class Solution
 {
     public int[] TwoSum(int[] nums, int target)
     {
@@ -19,5 +22,18 @@
         }
 
         throw new ArgumentException("Nenhuma solução encontrada");
+    }
+}
+
+internal static class Program
+{
+    private static void Main()
+    {
+        // Exemplo de uso: nums = [2,7,11,15], target = 9 -> resultado [0,1]
+        var nums = new int[] { 2, 7, 11, 15 };
+        int target = 9;
+
+        var resultado = new Solution().TwoSum(nums, target);
+        Console.WriteLine($"[{resultado[0]}, {resultado[1]}]");
     }
 }
