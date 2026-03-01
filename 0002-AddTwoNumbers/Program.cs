@@ -69,7 +69,7 @@ internal static class Program
         return cabeca.next!;
     }
 
-    private static void PrintList(ListNode node)
+    private static void PrintList(ListNode? node)
     {
         while (node != null)
         {
