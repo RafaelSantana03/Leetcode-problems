@@ -4,7 +4,13 @@ public class Program
 {
     static void Main(string[] args)
     {
-        
+        while (true)
+        {
+            Console.Write("Digite uma string de parênteses: ");
+            string entrada = Console.ReadLine() ?? string.Empty;
+            bool resultado = ValidarParenteses(entrada);
+            Console.WriteLine($"A string é válida? {resultado}");
+        }
 
     }
 
