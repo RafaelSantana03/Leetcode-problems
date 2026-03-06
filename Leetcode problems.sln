@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36915.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1 - Two Sum", "0001-TwoSum\1 - Two Sum.csproj", "{89263ED5-4CFB-A175-CD95-9891456F876C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0001 - Two Sum", "0001-TwoSum\0001 - Two Sum.csproj", "{89263ED5-4CFB-A175-CD95-9891456F876C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2 - Add Two Numbers", "0002-AddTwoNumbers\2 - Add Two Numbers.csproj", "{9902C0D5-F0B8-E50D-7038-8F738EFA99C0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0002 - Add Two Numbers", "0002-AddTwoNumbers\0002 - Add Two Numbers.csproj", "{9902C0D5-F0B8-E50D-7038-8F738EFA99C0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9 - Palindrome Number", "0009-PalindromeNumber\9 - Palindrome Number.csproj", "{E68D154E-CB10-75F9-D972-D638EFF8C65B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0009 - Palindrome Number", "0009-PalindromeNumber\0009 - Palindrome Number.csproj", "{E68D154E-CB10-75F9-D972-D638EFF8C65B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0013-Roman to Integer", "0013-Roman to Integer\0013-Roman to Integer.csproj", "{5DCB1A32-D001-4A62-A430-A033F65019F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0020 - Valid Parentheses", "0020 - Valid Parentheses\0020 - Valid Parentheses.csproj", "{DAC91A2A-04A8-4F7E-9CF4-34258985D349}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{5DCB1A32-D001-4A62-A430-A033F65019F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5DCB1A32-D001-4A62-A430-A033F65019F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5DCB1A32-D001-4A62-A430-A033F65019F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAC91A2A-04A8-4F7E-9CF4-34258985D349}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAC91A2A-04A8-4F7E-9CF4-34258985D349}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAC91A2A-04A8-4F7E-9CF4-34258985D349}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAC91A2A-04A8-4F7E-9CF4-34258985D349}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
