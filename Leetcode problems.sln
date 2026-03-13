@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0013-Roman to Integer", "00
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0020 - Valid Parentheses", "0020 - Valid Parentheses\0020 - Valid Parentheses.csproj", "{DAC91A2A-04A8-4F7E-9CF4-34258985D349}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0003-Longest Substring Without Repeating Characters", "0003-Longest Substring Without Repeating Characters\0003-Longest Substring Without Repeating Characters.csproj", "{B31B57F7-F49C-44BC-B607-6EAEE91DD9D9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{DAC91A2A-04A8-4F7E-9CF4-34258985D349}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DAC91A2A-04A8-4F7E-9CF4-34258985D349}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DAC91A2A-04A8-4F7E-9CF4-34258985D349}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B31B57F7-F49C-44BC-B607-6EAEE91DD9D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B31B57F7-F49C-44BC-B607-6EAEE91DD9D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B31B57F7-F49C-44BC-B607-6EAEE91DD9D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B31B57F7-F49C-44BC-B607-6EAEE91DD9D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
